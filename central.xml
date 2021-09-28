@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<projeto.CentralDeInformacoes>
+  <todosOsLivros/>
+  <todosAsContas>
+    <projeto.Conta>
+      <nome>bruna</nome>
+      <email>brunastefany432@gmail.com</email>
+      <senha>Senha</senha>
+      <livrosUsuario/>
+    </projeto.Conta>
+    <projeto.Conta>
+      <nome>aaa</nome>
+      <email>asdjashd@gmail.com</email>
+      <senha>Senha</senha>
+      <livrosUsuario/>
+    </projeto.Conta>
+  </todosAsContas>
+</projeto.CentralDeInformacoes>
